@@ -1,4 +1,4 @@
-# Hi there, I'm EREN77G! 👋
+# Hi there, I'm ERENGG7! 👋
 
 A hardworking bachelor student to become a software engineer focused on cross-platform mobile development and systems programming. I love building fast, optimized, and beautiful applications.
 
