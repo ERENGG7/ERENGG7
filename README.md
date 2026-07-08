@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm EREN77G! 👋
 
-<!--
-**ERENGG7/ERENGG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A hardworking bachelor student to become a software engineer focused on cross-platform mobile development and systems programming. I love building fast, optimized, and beautiful applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+
+<p align="left">
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
+  </a> &nbsp;&nbsp;
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
+  </a> &nbsp;&nbsp;
+  <!-- C++ -->
+  <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  </a>
+</p>
+
+### 🌱 Currently Learning
+
+<p align="left">
+  <!-- Swift -->
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" />
+  </a> &nbsp;&nbsp;
+  <!-- Shell/Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash/Shell" width="50" height="50" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 What I'm up to
+
+- 🚀 Developing cross-platform mobile apps using **Flutter** and **Dart**.
+- 🍏 Exploring native iOS and macOS development with **Swift**.
+- 🛠 Writing automation scripts using **Shell Scripting**.
+- 🧠 Deepening my understanding of **C++**, encryption, and client-server architectures.
+- 📈 Working with cloud storage and databases
+
+### 📫 Connect with me
+
+* **erengench12@gmail.com** 
