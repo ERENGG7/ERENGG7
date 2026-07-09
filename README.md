@@ -19,6 +19,9 @@ A hardworking bachelor student to become a software engineer focused on cross-pl
   <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
   </a>
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  </a> &nbsp;&nbsp;
 </p>
 
 ### 🌱 Currently Learning
